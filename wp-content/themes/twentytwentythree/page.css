@@ -1,0 +1,7 @@
+.wp-site-blocks > * + * {
+     margin-block-start: 0; 
+}
+.wp-site-blocks {
+    padding-top: var(--wp--style--root--padding-top);
+    padding-bottom: var(--wp--style--root--padding-bottom);
+}
